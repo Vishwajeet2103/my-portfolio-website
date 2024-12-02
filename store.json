@@ -1,0 +1,176 @@
+{
+  "education": {
+    "1": {
+      "school": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
+      "degree": "B.Tech in Computer Science",
+      "date": "2021-2025",
+      "grade": "8.29 CGPA",
+      "desc": "I am currently pursuing B.Tech in Computer Science with Specialization in Software Engineering. I have completed 7 semesters and have a CGPA of 8.29.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqitD-dHMkaYmXSbna6l1RNfokgpDmid3ejqj4IC8R5RGt3lkRxG_zPe6dUUylOpN8OzM&usqp=CAU"
+    },
+    "2": {
+      "school": "Central Academy Shikshantar, Senior Secondary School",
+      "degree": "CBSE",
+      "date": "2018-2020",
+      "grade": "80%",
+      "desc": "I completed my class 12 education at Central Academy Shikshantar, Senior Secondary School, where I studied PCM.",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5spI--UT2JGekFn-T8v2aoc7mCgdYA7oh6Q&s"
+    },
+    "3": {
+      "school": "St. Mary's High School, Mt. Abu",
+      "degree": "ICSE",
+      "date": "2014-2018",
+      "grade": "69%",
+      "desc": "I completed my class 10 education at St. Mary's High School, Mt. Abu.",
+      "img": "https://media.licdn.com/dms/image/v2/C4D0BAQGpXDr-KQuiCQ/company-logo_200_200/company-logo_200_200/0/1630485014290/stmarys_mt_abu_logo?e=2147483647&v=beta&t=4tXVhtIUsvQTxjagCISMSLm18nxKdIhxOaDI3f4CFiY"
+    }
+  },
+  "projects": [
+    {
+      "id": "1",
+      "title": "Premier Estate",
+      "description": "I developed a real estate platform using the MERN stack, featuring user registration, property listings, and advanced search and filter capabilities. The platform allows users to book consultations, securely communicate, and manage transactions with integrated payment systems.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS53aEqXjsR8Hii0I_X2diHiWbSmoGmzjoAng&s",
+      "date": "Feb 2023 - Mar 2023",
+      "tags": ["ReactJS", "MongoDB", "Firebase", "Node.js","Express.js","Tailwindcss"],
+      "rank": 1,
+      "ontop": 1,
+      "category": "Mern Stack",
+      "github": "https://github.com/Vishwajeet2103/Mern-stack-estate-app",
+      "webapp": "",
+      "member": [
+        {
+          "name": "Vishwajeet Singh",
+          "img": "",
+          "github": "https://github.com/Vishwajeet2103",
+          "linkedin": "https://www.linkedin.com/in/singh6164/"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "YouTube Video Bookmaker",
+      "description": "I developed a YouTube Video Bookmarking Extension that allows users to save and organize timestamps of their favorite moments from videos. Built with HTML5, CSS, JavaScript, and JSON, the extension provides a user-friendly interface for efficient navigation and quick access to bookmarked content. It enhances video watching productivity by enabling seamless management of video highlights.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdtZRlnrQM1RHhaZFshRRgncWM7pMlAuWveA&s",
+      "date": "Sept 2023 - Oct 2023",
+      "tags": ["HTML", "CSS", "JSON","JavaScript", "DOM", "Git"],
+      "rank": 2,
+      "ontop": 1,
+      "category": "Web Development",
+      "github": "https://github.com/Vishwajeet2103/Youtube_Bookmark_Extension",
+      "webapp": "",
+      "member": [
+        {
+          "name": "Vishwajeet Singh",
+          "img": "",
+          "github": "https://github.com/Vishwajeet2103",
+          "linkedin": "https://www.linkedin.com/in/singh6164/"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Sales Insights",
+      "description": "I developed an automated Sales Insights dashboard for a computer hardware business, leveraging Power BI and SQL to address challenges in scaling and deriving actionable insights. The dashboard visualizes key metrics such as revenue growth, YOY trends, and region-wise sales performance, enabling data-driven decision-making. ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRtSWuVe-lcCPqiJIHl2P9vw88joc7jr51w&s",
+      "date": "April 2024 - May 2024",
+      "tags": ["MySQL", "PowerBI", "Data visualization", "Data analysis"],
+      "rank": 3,
+      "ontop": 1,
+      "category": "Others",
+      "github": "https://github.com/Vishwajeet2103/Sales-Insights",
+      "webapp": "",
+      "member": [
+        {
+          "name": "Vishwajeet Singh",
+          "img": "",
+          "github": "https://github.com/Vishwajeet2103",
+          "linkedin": "https://www.linkedin.com/in/singh6164/"
+        }
+      ]
+    }
+  ],
+  "Bio": {
+    "name": "Vishwajeet Singh",
+    "description": "As a final-year B.Tech Computer Science student at SRM University, I'm deeply passionate about full-stack development and committed to creating innovative solutions that have a real-world impact. With a strong belief that technology can drive positive change, I am eager to contribute to shaping the future through my skills and creativity.",
+    "roles": [
+      "Software Engineer",
+      "Full-Stack Developer"  
+    ],
+    "resume": "https://drive.google.com/file/d/1TVUfkrdbhxXtWwrhsc8QI26ClqAUX2V7/view?usp=sharing" ,
+    "portalLink": "https://example.com/portal",
+    "github": "https://github.com/Vishwajeet2103",
+    "linkedin": "https://www.linkedin.com/in/singh6164/",
+    "insta": "https://www.instagram.com/vishwajeet6164/?next=%2F"
+  },
+  "skills": [
+    {
+      "title": "Frontend Development",
+      "skills": [
+        {
+          "name": "ReactJS",
+          "image": "https://cdn-icons-png.flaticon.com/128/10826/10826338.png"
+        },
+        {
+          "name": "JavaScript",
+          "image": "https://cdn-icons-png.flaticon.com/128/5968/5968292.png"
+        },
+        {
+          "name": "HTML5",
+          "image": "https://cdn-icons-png.flaticon.com/128/174/174854.png"
+        },
+        {
+          "name": "CSS3",
+          "image": "https://cdn-icons-png.flaticon.com/128/732/732190.png"
+        },
+        {
+          "name": "Tailwind CSS",
+          "image": "https://cdn.worldvectorlogo.com/logos/tailwindcss.svg"
+        }
+      ]
+    },
+    {
+      "title": "Backend Development",
+      "skills": [
+        {
+          "name": "Node.js",
+          "image": "https://cdn-icons-png.flaticon.com/128/5968/5968322.png"
+        },
+        {
+          "name": "Express.js",
+          "image": "https://img.icons8.com/?size=48&id=SDVmtZ6VBGXt&format=png"
+        },
+        {
+          "name": "MongoDB",
+          "image": "https://cdn.iconscout.com/icon/free/png-512/free-mongodb-logo-icon-download-in-svg-png-gif-file-formats--wordmark-programming-langugae-freebies-pack-logos-icons-1175138.png?f=webp&w=256"
+        },
+        {
+          "name": "Firebase",
+          "image": "https://img.icons8.com/?size=48&id=62452&format=png"
+        }
+      ]
+    },
+    {
+      "title": "Data Analysis & Programming Languages",
+      "skills": [
+        {
+          "name": "C++",
+          "image": "https://cdn-icons-png.flaticon.com/128/6132/6132222.png"
+        },
+        {
+          "name": "Git",
+          "image": "https://cdn-icons-png.flaticon.com/128/15466/15466163.png"
+        },
+        {
+          "name": "MySQL",
+          "image": "https://cdn-icons-png.flaticon.com/128/15474/15474209.png"
+        },
+        {
+          "name": "PowerBI",
+          "image": "https://img.icons8.com/?size=48&id=3sGOUDo9nJ4k&format=png"
+        }
+
+      ]
+    }
+  ]
+}
