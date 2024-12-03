@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import { FaGithub } from "react-icons/fa"; 
 import { RiHeartAddFill } from "react-icons/ri";
 
-const githubsponslink = 'https://github.com/sponsors/sibisiddharth8';
+const githubsponslink = '';
 
 const Button = styled.button`
     display: none;
