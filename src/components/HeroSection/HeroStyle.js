@@ -63,6 +63,7 @@ export const HeroLeftContainer = styled.div`
     display: flex;
     flex-direction: column;
     align-items: center;
+    
   }
 
   @media (max-width: 640px) {
@@ -75,7 +76,7 @@ export const HeroLeftContainer = styled.div`
 `;
 
 export const HeroRightContainer = styled.div`
-  width: 100%;
+  width: 40%;
   display: flex;
   order: 2;
   justify-content: end;
@@ -154,17 +155,21 @@ export const SubTitle = styled.div`
   font-size: 20px;
   line-height: 32px;
   margin-bottom: 42px;
+  margin-right: 40px;
   color: ${({ theme }) => theme.text_primary + 95};
+  text-align: justify; /* Add this to justify text */
 
   @media (max-width: 960px) {
-    text-align: center;
+    text-align: justify; /* Keep text justified on smaller screens */
   }
 
   @media (max-width: 640px) {
     font-size: 16px;
     line-height: 32px;
+    text-align: justify; /* Ensure consistency */
   }
 `;
+
 
 export const ResumeButton = styled.a`
     -webkit-appearance: button;
